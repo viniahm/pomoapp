@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1A1423;
+}
+
+
+#timer{
+    text-align: center;
+    align-content: center;
+    color:#1A1423;
+}
+
+#logo{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+}
+
+#pomotracker{
+    font-size: 40px;
+    color: white;
+    justify-content: center;
+    width: 190px;
+    height: 30px;
+}
+
+h1{
+    font-size: 40px;
+    color: white;
+}
+
+
+#pomodoro{
+    height: 100px;
+    width: 100px;
+    order: -1;
+    margin-right: 15px;
+    align-items: center;
+}
+
